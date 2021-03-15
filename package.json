@@ -20,11 +20,14 @@
     "webpack": "3.11.0"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@turf/helpers": "^6.0.1",
+    "axios": "^0.21.1",
     "express": "^4.16.2",
     "mapbox": "^1.0.0-beta9",
     "mapbox-gl": "^0.44.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
